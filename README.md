@@ -20,3 +20,7 @@ There are some general library requirements for the project and some which are s
 * dataset 2: List of negative words.
 * dataset 3: GloVe words vectors from StanfordNLP which match our dataset for seeding word embeddings.
 * Sentiment_Analysis_Tweets.ipynb: IPython notebook used to generate plots present in report.
+
+# Results:
+
+Test Accuracy : 96%
