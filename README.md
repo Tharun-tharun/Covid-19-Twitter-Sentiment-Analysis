@@ -1,6 +1,6 @@
 # Sentiment Analysis on Tweets
 Fine-tuning XLNet model sentiment classification.
-This work was done for a course project as hackathon this is already completed in the year 2020, I took this project just to get expereinced in ML model, This is was conducted in the time of lockdowns, remote work, and general uncertainty, by #ZindiWeekendz offer data scientists the opportunity to continue to develop their skills while contributing to practical, open-source AI solutions to help in the battle against COVID-19.
+This work was done for a course project as hackathon this is already completed in the year 2020, I took this project just to get expereinced in ML model, This was conducted in the time of lockdowns, remote work, and general uncertainty, by #ZindiWeekendz offer data scientists the opportunity to continue to develop their skills while contributing to practical, open-source AI solutions to help in the battle against COVID-19.
 
 # Understand the Problem Statement
 
