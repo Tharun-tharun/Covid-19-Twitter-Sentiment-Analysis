@@ -30,3 +30,9 @@ There are some general library requirements for the project and some which are s
 # Results:
 
 Test Accuracy : 96%
+
+### Thanks for checking out the repo!
+<p align="center">
+  <img src="https://github.com/SmartPracticeschool/SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19/blob/master/Pictures/panda-mask.jpg">
+</p>
+
